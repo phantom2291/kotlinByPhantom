@@ -1,0 +1,75 @@
+.cursor/rules/selection-add-comments.mdc
+  s_7d13b0ae6f709d::t_f93e08b88d29c7 1-33
+scripts/去虚拟化.md
+  s_7d13b0ae6f709d::t_a0480873e6b597 20
+  h_78211a3077e3d1 5,11,15-19,21-24,27,29,40,42-62,84-85,87-107,134-135,137-158
+  h_78211a3077e3d1 1-4,6-10,12-14,25-26,28,30-39,41,63-83,86,108-133,136,159-177
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/DevirtualizationAnalysis.kt
+  s_430538ecc08fcb::t_de6b7a9fb7d699 441,454,459
+  s_7d13b0ae6f709d::t_301e5afc2b2cc2 515-516,518-520,522-523,528-529,533,539-540,545,547,551,560,564
+  s_7d13b0ae6f709d::t_3937c8484ad3b8 527,597,599,601,606,609,625,627,641,645,652,660,672
+  s_7d13b0ae6f709d::t_175e92e5c7cf53 958,970,983-984,997,1002,1004,1134-1136,1140,1147,1157,1160,1167,1171,1177,1180,1185,1210,1220,1222,1226,1237,1244,1250,1268,1275,1280,1292,1295,1309
+  h_78211a3077e3d1 403,440,462
+  s_7d13b0ae6f709d::t_deda482d0d3b6c 465-468,473,475,478-479,481,485,490,494,497,500-501,503-504,506,508,512
+  h_78211a3077e3d1 397,400-402,405,775-777,779-780,783-784,786-788,793-794,800,836,855,920-921,923,934,940-941,951
+.cursor/rules/english-comment-translate.mdc
+  h_78211a3077e3d1 1-22
+.cursor/rules/kotlin-selection-explain.mdc
+  h_78211a3077e3d1 1-23
+.idea/vcs.xml
+  h_78211a3077e3d1 43-44
+gradle.properties
+  h_78211a3077e3d1 150-154
+kotlin-native/runtime/src/main/kotlin/kotlin/native/Platform.kt
+  h_78211a3077e3d1 13-20,32-33
+libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kotlinxSerializationK2AgainstK1Lib/lib/build/reports/problems/problems-report.html
+  h_78211a3077e3d1 1-663
+scripts/OHOS_COMPILER_BUILD.md
+  h_78211a3077e3d1 1-661
+scripts/OHOS_SO_COMPILE_PIPELINE.md
+  h_78211a3077e3d1 1-211
+scripts/去虚拟化总结.md
+  h_78211a3077e3d1 1-182
+third-party/common-rt
+  h_78211a3077e3d1 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.29.1408",
+  "base_commit_sha": "5f1f3bd2c48fc37b39b84a6f666d216156cce564",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_330d702c76f466": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7e23dd08-37e0-4bab-86c3-db35a784db32",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_deletions": 4
+    },
+    "s_430538ecc08fcb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "98b82414-7c85-4e70-82c2-ce36554bdfac",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_deletions": 26
+    },
+    "s_7d13b0ae6f709d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "19cb16b8-b40c-439d-8ddf-e2bb65366d70",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_deletions": 119
+    }
+  }
+}
