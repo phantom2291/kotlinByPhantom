@@ -1,0 +1,16 @@
+scripts/去虚拟化.md
+  h_78211a3077e3d1 1-177
+scripts/去虚拟化总结.md
+  h_78211a3077e3d1 1-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.29.1408",
+  "base_commit_sha": "5d3e2bf7e88a93675a7db9e9d4f988b5c62c146e",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  }
+}
