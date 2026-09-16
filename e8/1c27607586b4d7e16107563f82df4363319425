@@ -1,0 +1,40 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/DevirtualizationAnalysis.kt
+  s_7ff0718c989ccd::t_1845ddcecd9bd2 38
+  s_7ff0718c989ccd::t_5e843ed11379cb 754-769,777-779,783-785,818-821,832-864,866-869,871-875,915-916,918-923,955,957-962,1008,1010-1017
+scripts/去虚拟化总结.md
+  h_78211a3077e3d1 1-260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "e81c27607586b4d7e16107563f82df4363319425",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_7ff0718c989ccd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "492d6dcf-1679-4bd3-89a3-dd3dfaf89d15",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 96,
+      "total_deletions": 25,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_1845ddcecd9bd2": "grok-4.6",
+        "t_5e843ed11379cb": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 96,
+          "deletions": 25
+        }
+      }
+    }
+  }
+}
