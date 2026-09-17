@@ -1,0 +1,71 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/DevirtualizationAnalysis.kt
+  s_7ff0718c989ccd::t_53c6cd6caba5b4 797-798
+  s_7ff0718c989ccd::t_e8eb489716957b 809,811
+  s_7ff0718c989ccd::t_4ea8a998e6147c 760,764
+  h_78211a3077e3d1 854,887,934,944
+  h_78211a3077e3d1 845,935-943,945-946
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "623cfb728a1283b42d8b892e717aac3e3a266cee",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_7ff0718c989ccd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "492d6dcf-1679-4bd3-89a3-dd3dfaf89d15",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 1505,
+      "total_deletions": 504,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_053809c69b8579": "grok-4.6",
+        "t_05d047920dbec7": "grok-4.6",
+        "t_090c86e96026eb": "grok-4.6",
+        "t_15475cf3933397": "grok-4.6",
+        "t_1ce240c11ac564": "grok-4.6",
+        "t_29ec3b21469f28": "grok-4.6",
+        "t_3b97a939311d09": "grok-4.6",
+        "t_4b713e54dad65e": "grok-4.6",
+        "t_4ea8a998e6147c": "grok-4.6",
+        "t_53c6cd6caba5b4": "grok-4.6",
+        "t_5b8a8d9e33b550": "grok-4.6",
+        "t_5dcfa91183afb9": "grok-4.6",
+        "t_62532fa4b6427a": "grok-4.6",
+        "t_651d9825122a0e": "grok-4.6",
+        "t_6c84fe82d0cdb6": "grok-4.6",
+        "t_7dc5d16579fd2b": "grok-4.6",
+        "t_86a0f5107cb986": "grok-4.6",
+        "t_8e770739339aed": "grok-4.6",
+        "t_93466cea09efb2": "grok-4.6",
+        "t_9538483234dde5": "grok-4.6",
+        "t_96107cb8b3aa6b": "grok-4.6",
+        "t_9d87b40e38caa3": "grok-4.6",
+        "t_a2a6cf0dcfaa2d": "grok-4.6",
+        "t_a65fe3d69cbe6d": "grok-4.6",
+        "t_af0d4a6338bafc": "grok-4.6",
+        "t_bbd9eaee9f6789": "grok-4.6",
+        "t_bc0b4215d5a1f6": "grok-4.6",
+        "t_ca9a5f5431ea74": "grok-4.6",
+        "t_dd2300053dfc50": "grok-4.6",
+        "t_e8eb489716957b": "grok-4.6",
+        "t_efcc530447edf1": "grok-4.6",
+        "t_fdd84d8c9fa71f": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 1505,
+          "deletions": 504
+        }
+      }
+    }
+  }
+}
