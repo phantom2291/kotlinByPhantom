@@ -1,0 +1,38 @@
+plugins/compose/compiler-hosted/src/main/java/androidx/compose/compiler/plugins/kotlin/lower/AbstractComposeLowering.kt
+  s_9844559bf6b148::t_05b5000bcc0d47 1713
+plugins/compose/compiler-hosted/src/main/java/androidx/compose/compiler/plugins/kotlin/lower/hiddenfromc/AddHiddenFromCLowering.kt
+  s_9844559bf6b148::t_76d5a15bb90977 125
+  s_9844559bf6b148::t_c788c19ce1c97c 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "f2db2ec969e74f00adcea26b7929bd6147b35ec0",
+  "prompts": {},
+  "sessions": {
+    "s_9844559bf6b148": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4bd25bbe-ae72-49e4-b0c2-95646879f276",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 4,
+      "total_deletions": 15,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_05b5000bcc0d47": "grok-4.6",
+        "t_2fb916486ccba9": "grok-4.6",
+        "t_76d5a15bb90977": "grok-4.6",
+        "t_c788c19ce1c97c": "grok-4.6",
+        "t_f821b2639e4b9e": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 4,
+          "deletions": 15
+        }
+      }
+    }
+  }
+}
