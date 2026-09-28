@@ -1,0 +1,78 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/函数体展开的并行与同步资源.md
+  s_e343cccfeb70d1::t_7cfe15da79f492 1-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.2",
+  "base_commit_sha": "58fa8424acddc02954efb94581b6bc58db67943c",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_c12bb50e91be98": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "20fbac49-fb9a-4d1f-86f5-7073f3215271",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 1154,
+      "total_deletions": 1,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_484171e333f1f5": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 1154,
+          "deletions": 1
+        }
+      }
+    },
+    "s_ddcad77cb63cc9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f42492901ffedHC0Z69S9lgSF7",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 1998,
+      "total_deletions": 0,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_d7e07b0b120d5c": "deepseek-v4-flash"
+      },
+      "model_totals": {
+        "deepseek-v4-flash": {
+          "additions": 1998,
+          "deletions": 0
+        }
+      }
+    },
+    "s_e343cccfeb70d1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d812906b-1a26-4643-b4d5-c332f2a87b71",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 138,
+      "total_deletions": 69,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_029b7d42a7a6d0": "grok-4.6",
+        "t_18caab8a9e98ae": "grok-4.6",
+        "t_7cfe15da79f492": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 138,
+          "deletions": 69
+        }
+      }
+    }
+  }
+}
