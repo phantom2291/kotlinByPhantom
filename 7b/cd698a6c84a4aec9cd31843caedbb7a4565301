@@ -1,0 +1,141 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/DevirtualizationAnalysis.kt
+  s_80e0b01e4110da::t_7f470bba98b038 1080-1084
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.2",
+  "base_commit_sha": "7bcd698a6c84a4aec9cd31843caedbb7a4565301",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_3666eadb8b7dbd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "254fa7d0-0ccb-4d48-af73-d6bec44a8798",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 89,
+      "total_deletions": 1,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_0198836c2f7648": "grok-4.7",
+        "t_bc6aa13a058656": "grok-4.7"
+      },
+      "model_totals": {
+        "grok-4.7": {
+          "additions": 89,
+          "deletions": 1
+        }
+      }
+    },
+    "s_80e0b01e4110da": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e3b63c8a-7ca6-4db4-ab26-958215289e87",
+        "model": "grok-4.7"
+      },
+      "human_author": null,
+      "total_additions": 2,
+      "total_deletions": 1,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_0b8ba8cdd09333": "grok-4.7",
+        "t_2b21160bad071b": "grok-4.7",
+        "t_379a0d2372791d": "grok-4.7",
+        "t_3f2f69a43437fb": "grok-4.7",
+        "t_7b56fa6f8cb0a2": "grok-4.7",
+        "t_7f470bba98b038": "grok-4.7",
+        "t_dee44c862f2f53": "grok-4.7",
+        "t_f642f9c4154e6c": "grok-4.7",
+        "t_fec184d3178383": "grok-4.7"
+      },
+      "model_totals": {
+        "grok-4.7": {
+          "additions": 176,
+          "deletions": 122
+        }
+      }
+    },
+    "s_c12bb50e91be98": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "20fbac49-fb9a-4d1f-86f5-7073f3215271",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 1154,
+      "total_deletions": 1,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_484171e333f1f5": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 1154,
+          "deletions": 1
+        }
+      }
+    },
+    "s_de7750e23fe9a2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f8c17eaf-af8b-4826-a830-f75a59ad5afe",
+        "model": "grok-4.7"
+      },
+      "human_author": null,
+      "total_additions": 25,
+      "total_deletions": 13,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_0a5e28c77dde23": "grok-4.7",
+        "t_2143db64a880bb": "grok-4.7",
+        "t_3267798e8626ea": "grok-4.7",
+        "t_4078bb5484f29a": "grok-4.7",
+        "t_55b92dc7b4d783": "grok-4.7",
+        "t_5a4edcd209821c": "grok-4.7",
+        "t_6d9e310dbf5674": "grok-4.7",
+        "t_7dec9d1e072bef": "grok-4.7",
+        "t_9138f76e547aef": "grok-4.7",
+        "t_94e06320888ace": "grok-4.7",
+        "t_c0abae0c8e4d70": "grok-4.7",
+        "t_c564fb490eedb0": "grok-4.7",
+        "t_d080fa30904db5": "grok-4.7",
+        "t_d93bb2172bd0a4": "grok-4.7",
+        "t_ee1b699fe637fb": "grok-4.7",
+        "t_eff193482fe219": "grok-4.7",
+        "t_f6875aef142df5": "grok-4.7"
+      },
+      "model_totals": {
+        "grok-4.7": {
+          "additions": 98,
+          "deletions": 97
+        }
+      }
+    },
+    "s_e343cccfeb70d1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d812906b-1a26-4643-b4d5-c332f2a87b71",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 15,
+      "total_deletions": 0,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_917a6c8beff9ec": "grok-4.6"
+      },
+      "model_totals": {
+        "grok-4.6": {
+          "additions": 15,
+          "deletions": 0
+        }
+      }
+    }
+  }
+}
