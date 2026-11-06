@@ -1,0 +1,56 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/CallGraphBuilder.kt
+  s_1e6fb9ba1d32e9::t_f00f905be2a2cb 16-28,153-159,161-176,230-233,241-246,248,251,253-259,335,338,344-345,367
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/StaticInitializersOptimization.kt
+  s_1e6fb9ba1d32e9::t_1b29bbe718379d 464
+  s_1e6fb9ba1d32e9::t_6ec853f69a1f1f 485-487,489-490,492
+  s_1e6fb9ba1d32e9::t_26e038def3ef13 380,382-392,396-398,400-403,405-406
+  s_1e6fb9ba1d32e9::t_e034040ffa60b6 66-89,113,115,148,167,171,174,178,188,192,204,237-250,285-287,295,304,306-307
+  s_1e6fb9ba1d32e9::t_075e99081fddb0 605-609,611
+  s_1e6fb9ba1d32e9::t_a5d79767244bb8 554-561
+  s_1e6fb9ba1d32e9::t_bb95f0d7af9e8d 620
+  s_1e6fb9ba1d32e9::t_4201f8991076e6 644-645,647,650-655,658
+  s_1e6fb9ba1d32e9::t_3db4747331acc0 335-340,342,350
+  s_1e6fb9ba1d32e9::t_8f6511eb19e9e9 522-530,538-543
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/LTO.kt
+  s_1e6fb9ba1d32e9::t_f0ff59a98722dc 181,189,191,193-195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "bcdb18c57097ee6640f082fdb5b6bf60bf08080d",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_1e6fb9ba1d32e9": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_e700d9ca3ffed1J01nVx2guteW",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"deepseek-v4-flash\":{\"additions\":378,\"deletions\":39}}",
+        "stats_total_additions": "378",
+        "stats_total_deletions": "39",
+        "stats_turn_models": "{\"t_075e99081fddb0\":\"deepseek-v4-flash\",\"t_19c4986665fe54\":\"deepseek-v4-flash\",\"t_1b29bbe718379d\":\"deepseek-v4-flash\",\"t_26e038def3ef13\":\"deepseek-v4-flash\",\"t_31aa716d2ec9ba\":\"deepseek-v4-flash\",\"t_3a836e3049b44a\":\"deepseek-v4-flash\",\"t_3db4747331acc0\":\"deepseek-v4-flash\",\"t_4201f8991076e6\":\"deepseek-v4-flash\",\"t_55b7758a265175\":\"deepseek-v4-flash\",\"t_6294e3058161df\":\"deepseek-v4-flash\",\"t_6ec853f69a1f1f\":\"deepseek-v4-flash\",\"t_79b0d6297f1d15\":\"deepseek-v4-flash\",\"t_80a8b7f858136a\":\"deepseek-v4-flash\",\"t_8f6511eb19e9e9\":\"deepseek-v4-flash\",\"t_94a815506ae6cf\":\"deepseek-v4-flash\",\"t_a5d79767244bb8\":\"deepseek-v4-flash\",\"t_bb95f0d7af9e8d\":\"deepseek-v4-flash\",\"t_c8359691d081b0\":\"deepseek-v4-flash\",\"t_d4debeb607d8d9\":\"deepseek-v4-flash\",\"t_e034040ffa60b6\":\"deepseek-v4-flash\",\"t_f00f905be2a2cb\":\"deepseek-v4-flash\",\"t_f0ff59a98722dc\":\"deepseek-v4-flash\"}"
+      }
+    },
+    "s_3354c1ef97fbbf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f59fe83d-4f31-4219-904e-304d92393489",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"grok-4.7\":{\"additions\":212,\"deletions\":0}}",
+        "stats_total_additions": "212",
+        "stats_turn_models": "{\"t_141a81d26338f9\":\"grok-4.7\"}"
+      }
+    }
+  }
+}
