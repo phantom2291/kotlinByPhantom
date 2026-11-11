@@ -1,0 +1,147 @@
+kotlin-native/libllvmext/src/main/cpp/CAPIExtensions.cpp
+  s_f368ef8814e529::t_053fc70cefc425 398-403
+  s_f368ef8814e529::t_aa1a1a6fbbfc6c 744-755
+  s_66c27fb9cc852e::t_b1e4823c9779a4 126-128
+  s_66c27fb9cc852e::t_e8ccb83be0323b 227-263,270,272-281,283-284,287-290
+  s_66c27fb9cc852e::t_903945107eeab0 184,187-188
+  s_f368ef8814e529::t_2333f82b450c1e 12,14
+  s_66c27fb9cc852e::t_dbed2735e4a24c 178-183,185-186,189-207
+  s_f368ef8814e529::t_150bdb62bef6f0 264,282,286,300-301,317-397,404-419,466-472,479-480,482-485,492-519,524-528,531-534,541-544
+  s_f368ef8814e529::t_ab0cb15ad41e99 420-465,473-478,481,486-491
+  s_f368ef8814e529::t_a861848c6b4a9c 27
+  s_f368ef8814e529::t_a3c802ad90e0a1 549-622
+  s_f368ef8814e529::t_2b79690bf487cb 24
+  s_66c27fb9cc852e::t_e11dcbef564166 124-125,129-133,137-143
+  s_f368ef8814e529::t_7fd004120aeeb5 302-303,307
+  s_f368ef8814e529::t_8f97eaf4c81a90 529-530,536
+  s_f368ef8814e529::t_9387ef090e4db5 10-11,15,17,25
+  s_f368ef8814e529::t_f63db1edd0e074 57-79
+  s_f368ef8814e529::t_1ee75f73725048 80-81,547-548
+  s_f368ef8814e529::t_a57e0787ebcffe 308
+  s_66c27fb9cc852e::t_2125e7d1b04928 310-315
+  s_f368ef8814e529::t_6f8cdaf1b8ef6b 82-123,134-136,144-177,208-226,265-269,271,285,291-297,304-306,309,316,545-546
+  s_f368ef8814e529::t_927bc0193b9dcb 520-523,535,537-540
+  s_f368ef8814e529::t_c0d370ea37d849 13,16,18
+  s_66c27fb9cc852e::t_1fc9af4183e978 298-299
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/llvm/BinaryInterface.kt
+  s_f368ef8814e529::t_879a63b4c6ba7c 163-166,170
+native/binary-options/src/main/kotlin/org/jetbrains/kotlin/config/nativeBinaryOptions/BinaryOptions.kt
+  s_f368ef8814e529::t_770a0a8e51b4bb 159-160
+  s_f368ef8814e529::t_99ac9474e46568 155-158,161-162
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/Linker.kt
+  s_f368ef8814e529::t_d1cc9b76f7f5ed 224-227,229-230
+  s_10ef01fa77c8e5::t_a0d2db15e7b590 228
+kotlin-native/libllvmext/src/main/include/CAPIExtensions.h
+  s_f368ef8814e529::t_bd0fa900d2af14 36-37,41-54
+  s_f368ef8814e529::t_43ce691830bb52 24-35
+  s_f368ef8814e529::t_bfd4eee980ca93 55-66
+  s_f368ef8814e529::t_7ef2c600932d6c 67,71-72
+  s_66c27fb9cc852e::t_06368f11d27800 38-40
+  s_66c27fb9cc852e::t_e5d6cf43980be7 68-70
+  s_f368ef8814e529::t_ddf732ab699535 88-96
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/TopLevelPhases.kt
+  s_f368ef8814e529::t_b7b16ece785351 441-443,445,449,453,455,458,465
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/ObjectFiles.kt
+  s_f368ef8814e529::t_debf10ec851518 80,83-85,94-114
+  s_f368ef8814e529::t_e2bb731d1f3af5 10
+  s_f368ef8814e529::t_768a203521b3a3 51
+  s_f368ef8814e529::t_e0e204edde6346 8-9,11,15-16,18-21,26,32-50,52-79,81-82,86-93,115-118
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/Bitcode.kt
+  s_f368ef8814e529::t_bbc0ac580918f3 28,36
+  s_f368ef8814e529::t_189a87057a1747 34
+  s_f368ef8814e529::t_9315bc7e55abef 286-312,314-318,320
+  s_f368ef8814e529::t_4a3496091b1f83 696
+  s_f368ef8814e529::t_5463a0e4816221 13,23,25-26,30-31,35
+  s_f368ef8814e529::t_5ce3292f8cd40b 19
+  s_f368ef8814e529::t_74ecfe4297ba56 334
+  s_f368ef8814e529::t_5f7a09f098173b 387,395,417,423-432,583-615,617-695
+  s_10ef01fa77c8e5::t_ccc22929907617 409-413,415
+  s_66c27fb9cc852e::t_f681bf3b6a1f19 481-518
+  s_f368ef8814e529::t_5e0d7076c6a205 325,327-333
+  s_f368ef8814e529::t_ab83c4282a69a3 519-524,532
+  s_10ef01fa77c8e5::t_fab8a3bf64f4a1 455,458-459
+  s_f368ef8814e529::t_74d6c9ebc0c91f 323-324,326,341,346-386,397-408,416,420-422,697
+  s_f368ef8814e529::t_0bf5bc548facaf 342-345
+  s_f368ef8814e529::t_be10877d20b826 616
+  s_f368ef8814e529::t_48ce5e4e5f0af9 12
+  s_f368ef8814e529::t_dff414f11b096f 433-437,525-531,533-537,541-547,549-570,574-582
+  s_f368ef8814e529::t_f42301bd2d3214 66-67
+  s_66c27fb9cc852e::t_4743f69efe0f0b 418-419
+  s_10ef01fa77c8e5::t_86ad8831e6167a 438-443,446-448,473-475
+  s_f368ef8814e529::t_0e8639abc79e43 538-540
+  s_10ef01fa77c8e5::t_adc0415faed9f3 444-445,452-454,456,460-468,470,472,476-480
+  s_f368ef8814e529::t_604e7b59a83bdf 249-285,313,319,321-322,698-717
+  s_f368ef8814e529::t_6262685abd8b32 21-22,24,27,29,33
+  s_f368ef8814e529::t_2d81dcb840f6ce 32
+  s_66c27fb9cc852e::t_effbb74020fb1c 388-394
+  s_f368ef8814e529::t_2384411118e5a3 16-18,20,38,40-41,43-47,49,51
+  s_f368ef8814e529::t_86f55452a6eb0b 548
+  s_f368ef8814e529::t_f01ce090e2f45f 42
+  s_f368ef8814e529::t_83f7b4d9cdea03 14
+  s_f368ef8814e529::t_2fcae30a39b1fd 571-573
+  s_f368ef8814e529::t_52411d6873c8a9 8-11
+  s_66c27fb9cc852e::t_2f445bd6f26494 335-340
+  s_10ef01fa77c8e5::t_8a9cf6a69366a9 449-451,457
+  s_f368ef8814e529::t_a290088cb2b690 396
+  s_10ef01fa77c8e5::t_98738f902d581d 469,471
+  s_f368ef8814e529::t_75d875bf83616c 414
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/NativeSecondStageCompilationConfig.kt
+  s_f368ef8814e529::t_448955ca04d30e 397-399
+  s_f368ef8814e529::t_88ce60c1e0fa0c 374-376,378-379
+  s_f368ef8814e529::t_9d20c7e233a3d2 377,380-381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "7d3477ea570da5a07dceec0becf8be0fd7b45995",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_10ef01fa77c8e5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ca99c9d2-eaf9-4d1f-9d78-29bc0d87551e",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":100,\"deletions\":52}}",
+        "stats_total_additions": "100",
+        "stats_total_deletions": "52",
+        "stats_turn_models": "{\"t_86ad8831e6167a\":\"default\",\"t_8a9cf6a69366a9\":\"default\",\"t_98738f902d581d\":\"default\",\"t_a0d2db15e7b590\":\"default\",\"t_a54b82fb1d8618\":\"default\",\"t_adc0415faed9f3\":\"default\",\"t_b3bf7de698f24a\":\"default\",\"t_c4a41b6edbf0c3\":\"default\",\"t_ccc22929907617\":\"default\",\"t_e0f86347df3b10\":\"default\",\"t_fab8a3bf64f4a1\":\"default\"}"
+      }
+    },
+    "s_66c27fb9cc852e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c5a50b98-5b72-47ce-9a91-35a69923ac04",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"grok-4.7\":{\"additions\":174,\"deletions\":30}}",
+        "stats_total_additions": "174",
+        "stats_total_deletions": "30",
+        "stats_turn_models": "{\"t_06368f11d27800\":\"grok-4.7\",\"t_1fc9af4183e978\":\"grok-4.7\",\"t_2125e7d1b04928\":\"grok-4.7\",\"t_2f445bd6f26494\":\"grok-4.7\",\"t_4743f69efe0f0b\":\"grok-4.7\",\"t_903945107eeab0\":\"grok-4.7\",\"t_b1e4823c9779a4\":\"grok-4.7\",\"t_dbed2735e4a24c\":\"grok-4.7\",\"t_e11dcbef564166\":\"grok-4.7\",\"t_e5d6cf43980be7\":\"grok-4.7\",\"t_e8ccb83be0323b\":\"grok-4.7\",\"t_effbb74020fb1c\":\"grok-4.7\",\"t_f681bf3b6a1f19\":\"grok-4.7\"}"
+      }
+    },
+    "s_f368ef8814e529": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8277f1f0-fcfe-4693-adf5-f2e2249b4c95",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"grok-4.7\":{\"additions\":3383,\"deletions\":435}}",
+        "stats_total_additions": "3383",
+        "stats_total_deletions": "435",
+        "stats_turn_models": "{\"t_053fc70cefc425\":\"grok-4.7\",\"t_078db624dd66e4\":\"grok-4.7\",\"t_07fc592c4f3e3a\":\"grok-4.7\",\"t_0bf5bc548facaf\":\"grok-4.7\",\"t_0e8639abc79e43\":\"grok-4.7\",\"t_0f5314f8c23d52\":\"grok-4.7\",\"t_0fef89e023e346\":\"grok-4.7\",\"t_139663d19f2c21\":\"grok-4.7\",\"t_150bdb62bef6f0\":\"grok-4.7\",\"t_173fa3969ed744\":\"grok-4.7\",\"t_177bf55e22900f\":\"grok-4.7\",\"t_18925a4da4a474\":\"grok-4.7\",\"t_189a87057a1747\":\"grok-4.7\",\"t_1e2e2c22c9f856\":\"grok-4.7\",\"t_1ee75f73725048\":\"grok-4.7\",\"t_21b1cd7c2fcde7\":\"grok-4.7\",\"t_22921a2e5a7400\":\"grok-4.7\",\"t_2333f82b450c1e\":\"grok-4.7\",\"t_2344d338fb23d6\":\"grok-4.7\",\"t_2384411118e5a3\":\"grok-4.7\",\"t_26736e7dc4b72c\":\"grok-4.7\",\"t_27586f0eb190da\":\"grok-4.7\",\"t_2afdbe2a171f22\":\"grok-4.7\",\"t_2b79690bf487cb\":\"grok-4.7\",\"t_2c96190800afc2\":\"grok-4.7\",\"t_2d81dcb840f6ce\":\"grok-4.7\",\"t_2dd901e32b1f55\":\"grok-4.7\",\"t_2f4c6feac40892\":\"grok-4.7\",\"t_2fc0dece6817e4\":\"grok-4.7\",\"t_2fcae30a39b1fd\":\"grok-4.7\",\"t_3265a3ab005fa6\":\"grok-4.7\",\"t_3d5de931016a2b\":\"grok-4.7\",\"t_430c65212be006\":\"grok-4.7\",\"t_43ce691830bb52\":\"grok-4.7\",\"t_448955ca04d30e\":\"grok-4.7\",\"t_48ce5e4e5f0af9\":\"grok-4.7\",\"t_49e7182ad0ca81\":\"grok-4.7\",\"t_4a3496091b1f83\":\"grok-4.7\",\"t_4bf16a1d08bd06\":\"grok-4.7\",\"t_4f3ff7ee72dab2\":\"grok-4.7\",\"t_52411d6873c8a9\":\"grok-4.7\",\"t_52cfe2f759580a\":\"grok-4.7\",\"t_5463a0e4816221\":\"grok-4.7\",\"t_564f510482fb46\":\"grok-4.7\",\"t_566340c2e70019\":\"grok-4.7\",\"t_5781456ede9fe7\":\"grok-4.7\",\"t_598bc0b189b98a\":\"grok-4.7\",\"t_59be68f5d2d415\":\"grok-4.7\",\"t_59dec58b052984\":\"grok-4.7\",\"t_5ca4067232300e\":\"grok-4.7\",\"t_5ce3292f8cd40b\":\"grok-4.7\",\"t_5e0d7076c6a205\":\"grok-4.7\",\"t_5f4bea3e9f9159\":\"grok-4.7\",\"t_5f7a09f098173b\":\"grok-4.7\",\"t_604e7b59a83bdf\":\"grok-4.7\",\"t_6262685abd8b32\":\"grok-4.7\",\"t_62dfc9f8e55bfa\":\"grok-4.7\",\"t_65beadb35ca252\":\"grok-4.7\",\"t_6ce61a0a045e7f\":\"grok-4.7\",\"t_6f8cdaf1b8ef6b\":\"grok-4.7\",\"t_74d6c9ebc0c91f\":\"grok-4.7\",\"t_74ecfe4297ba56\":\"grok-4.7\",\"t_75d875bf83616c\":\"grok-4.7\",\"t_768a203521b3a3\":\"grok-4.7\",\"t_770a0a8e51b4bb\":\"grok-4.7\",\"t_78f03071eeed32\":\"grok-4.7\",\"t_7bab0ddaae5351\":\"grok-4.7\",\"t_7e256b9d4613e3\":\"grok-4.7\",\"t_7ef2c600932d6c\":\"grok-4.7\",\"t_7fd004120aeeb5\":\"grok-4.7\",\"t_8166b591b5c60a\":\"grok-4.7\",\"t_83f7b4d9cdea03\":\"grok-4.7\",\"t_86f55452a6eb0b\":\"grok-4.7\",\"t_8764167254e25f\":\"grok-4.7\",\"t_879a63b4c6ba7c\":\"grok-4.7\",\"t_88ce60c1e0fa0c\":\"grok-4.7\",\"t_8babd8bd68ab94\":\"grok-4.7\",\"t_8f97eaf4c81a90\":\"grok-4.7\",\"t_915db84cf26692\":\"grok-4.7\",\"t_927bc0193b9dcb\":\"grok-4.7\",\"t_9315bc7e55abef\":\"grok-4.7\",\"t_935fe2ddf15aea\":\"grok-4.7\",\"t_9387ef090e4db5\":\"grok-4.7\",\"t_939b5741968f21\":\"grok-4.7\",\"t_98db4c471d80e2\":\"grok-4.7\",\"t_99ac9474e46568\":\"grok-4.7\",\"t_9cddc64d2996f8\":\"grok-4.7\",\"t_9d20c7e233a3d2\":\"grok-4.7\",\"t_9df4dcaf29c37c\":\"grok-4.7\",\"t_a290088cb2b690\":\"grok-4.7\",\"t_a3c5551bc56d72\":\"grok-4.7\",\"t_a3c802ad90e0a1\":\"grok-4.7\",\"t_a57e0787ebcffe\":\"grok-4.7\",\"t_a861848c6b4a9c\":\"grok-4.7\",\"t_aa1a1a6fbbfc6c\":\"grok-4.7\",\"t_ab0cb15ad41e99\":\"grok-4.7\",\"t_ab83c4282a69a3\":\"grok-4.7\",\"t_af34e5610863c2\":\"grok-4.7\",\"t_afbc6d588a4c04\":\"grok-4.7\",\"t_b0595449d4eeb5\":\"grok-4.7\",\"t_b668891d661746\":\"grok-4.7\",\"t_b7b16ece785351\":\"grok-4.7\",\"t_b843d28c604707\":\"grok-4.7\",\"t_bbc0ac580918f3\":\"grok-4.7\",\"t_bd0fa900d2af14\":\"grok-4.7\",\"t_bd8751f6ed758b\":\"grok-4.7\",\"t_be10877d20b826\":\"grok-4.7\",\"t_bfd4eee980ca93\":\"grok-4.7\",\"t_c0d370ea37d849\":\"grok-4.7\",\"t_c350124478568a\":\"grok-4.7\",\"t_c5aae58a68f360\":\"grok-4.7\",\"t_cbb80db626ac2a\":\"grok-4.7\",\"t_d0d1cacf8e627d\":\"grok-4.7\",\"t_d1cc9b76f7f5ed\":\"grok-4.7\",\"t_d530125f9d74eb\":\"grok-4.7\",\"t_d770fe0db32e96\":\"grok-4.7\",\"t_d7d4ce970299e3\":\"grok-4.7\",\"t_ddf21c69f0829e\":\"grok-4.7\",\"t_ddf732ab699535\":\"grok-4.7\",\"t_debf10ec851518\":\"grok-4.7\",\"t_dff414f11b096f\":\"grok-4.7\",\"t_e0e204edde6346\":\"grok-4.7\",\"t_e2bb731d1f3af5\":\"grok-4.7\",\"t_e33ba8dd8a24a3\":\"grok-4.7\",\"t_e9b8780dade0e3\":\"grok-4.7\",\"t_ec115cc51a9766\":\"grok-4.7\",\"t_ee7e78e9e8634c\":\"grok-4.7\",\"t_f01ce090e2f45f\":\"grok-4.7\",\"t_f3a4064f75a4b0\":\"grok-4.7\",\"t_f42301bd2d3214\":\"grok-4.7\",\"t_f63db1edd0e074\":\"grok-4.7\",\"t_fb7c596e68c6d8\":\"grok-4.7\",\"t_ffe0047a825f00\":\"grok-4.7\"}"
+      }
+    }
+  }
+}
