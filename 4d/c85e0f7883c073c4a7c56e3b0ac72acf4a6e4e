@@ -1,0 +1,31 @@
+kotlin-native/libllvmext/src/main/cpp/ParallelObjectEmission.cpp
+  s_ee32ae66c414d8::t_abc32acc59eac5 221-232
+  s_ee32ae66c414d8::t_3719f2940200e8 182-187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "4dc85e0f7883c073c4a7c56e3b0ac72acf4a6e4e",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_ee32ae66c414d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ac4c4f25-07bf-4eaf-a545-7cbe20268e02",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":996911,\"deletions\":37}}",
+        "stats_total_additions": "498467",
+        "stats_total_deletions": "7",
+        "stats_turn_models": "{\"t_0b6b42b7e949f4\":\"default\",\"t_3719f2940200e8\":\"default\",\"t_abc32acc59eac5\":\"default\",\"t_b0069aaecf0b4f\":\"default\",\"t_cc2c3c7c5f22a9\":\"default\",\"t_cc5e9201aa15a6\":\"default\"}"
+      }
+    }
+  }
+}
