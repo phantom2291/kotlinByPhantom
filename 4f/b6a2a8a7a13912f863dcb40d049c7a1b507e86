@@ -1,0 +1,37 @@
+kotlin-native/libllvmext/src/main/cpp/ParallelObjectEmission.cpp
+  s_14b467c11cf6bb::t_1b04e8fcf9c72f 1-323
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/BitcodeCompiler.kt
+  s_14b467c11cf6bb::t_01089c1f8065ae 19-23
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/Linker.kt
+  s_14b467c11cf6bb::t_692c40776d5d9e 6
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/LlvmBitcodeCompiler.kt
+  s_14b467c11cf6bb::t_98fb6578075c2f 11-12,15,21-23,39-58
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/ObjectFiles.kt
+  s_14b467c11cf6bb::t_622cd6079c10b8 19,31
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/TopLevelPhases.kt
+  s_14b467c11cf6bb::t_76a3cf8f3be296 8-9,424,463-469,479,489,491,501
+kotlin-native/libllvmext/CMakeLists.txt
+  s_14b467c11cf6bb::t_d1a7b00e1cd5bf 44
+kotlin-native/libllvmext/src/main/include/CAPIExtensions.h
+  s_14b467c11cf6bb::t_bc005c42dc4ee4 70-74
+native/binary-options/src/main/kotlin/org/jetbrains/kotlin/config/nativeBinaryOptions/BinaryOptions.kt
+  s_14b467c11cf6bb::t_91d23f22d49f56 79-81
+native/native.tests/tests/org/jetbrains/kotlin/konan/test/blackbox/ParallelObjectFilesTest.kt
+  s_14b467c11cf6bb::t_9c85430588130f 1-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "4fb6a2a8a7a13912f863dcb40d049c7a1b507e86",
+  "prompts": {},
+  "sessions": {
+    "s_14b467c11cf6bb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5e1c76e7-0f3d-475f-9aa1-c30ed5fe1753",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  }
+}
