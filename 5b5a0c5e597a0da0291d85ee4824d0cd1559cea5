@@ -1,0 +1,36 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/DevirtualizationAnalysis.kt
+  h_78211a3077e3d1 1080
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.2",
+  "base_commit_sha": "5b5a0c5e597a0da0291d85ee4824d0cd1559cea5",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_de7750e23fe9a2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f8c17eaf-af8b-4826-a830-f75a59ad5afe",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_additions": 3235,
+      "total_deletions": 0,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_9cfc33958ae056": "grok-4.7"
+      },
+      "model_totals": {
+        "grok-4.7": {
+          "additions": 3235,
+          "deletions": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/optimizations/DevirtualizationAnalysis.kt
+  s_330d702c76f466::t_82f840b9e8ee90 440,442,446,448
+  s_330d702c76f466::t_707c81a981749c 512
+  s_330d702c76f466::t_6d2d49b48a61b3 481,484
+  s_330d702c76f466::t_32b43d91cf6481 564
+  s_330d702c76f466::t_87d9b7a455be44 649
+  s_330d702c76f466::t_fffb7f18991160 627,629,632
+  s_330d702c76f466::t_f457c115ec50cf 495,507
+  s_330d702c76f466::t_5c1675fc7de405 37-38
+  s_330d702c76f466::t_a1cbf3141236bd 396-428,430,432
+  s_330d702c76f466::t_b5a9f26a3beea5 559
+  s_330d702c76f466::t_755a24441381d7 708
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.29.1408",
+  "base_commit_sha": "117275709ad7105e4d15a76d2d2e781c4110f98b",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_330d702c76f466": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7e23dd08-37e0-4bab-86c3-db35a784db32",
+        "model": "grok-4.6"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "total_deletions": 157
+    }
+  }
+}

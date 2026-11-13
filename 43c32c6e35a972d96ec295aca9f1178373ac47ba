@@ -1,0 +1,28 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/NativeSecondStageCompilationConfig.kt
+  h_78211a3077e3d1 389,393-402
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/cexport/CAdapterGenerator.kt
+  h_78211a3077e3d1 411-412,442,449,463-466,470-472,476-478,488,495
+native/binary-options/src/main/kotlin/org/jetbrains/kotlin/config/nativeBinaryOptions/BinaryOptions.kt
+  h_78211a3077e3d1 49-50
+native/native.tests/testData/CExport/InterfaceV1HeaderTests/entryPoints.entrypoints.entryPoints.txt
+  h_78211a3077e3d1 1-6
+native/native.tests/testData/CExport/InterfaceV1HeaderTests/entryPoints.h
+  h_78211a3077e3d1 1-129
+native/native.tests/testData/CExport/InterfaceV1HeaderTests/entryPoints.kt
+  h_78211a3077e3d1 1-25
+native/native.tests/testFixtures/org/jetbrains/kotlin/konan/test/blackbox/AbstractNativeCExportInterfaceV1HeaderTest.kt
+  h_78211a3077e3d1 20,33-35,49-50
+native/objcexport-header-generator/impl/k1/src/org/jetbrains/kotlin/backend/konan/objcexport/ObjCEntryPoints.kt
+  h_78211a3077e3d1 29-46,51-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "43c32c6e35a972d96ec295aca9f1178373ac47ba",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  }
+}
