@@ -1,0 +1,58 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/BitcodeCompiler.kt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 19-23
+kotlin-native/libllvmext/src/main/include/CAPIExtensions.h
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 70-74
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/TopLevelPhases.kt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 8-9,424,463-469,479,489,491,501
+kotlin-native/libllvmext/CMakeLists.txt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 44
+kotlin-native/libllvmext/src/main/cpp/ParallelObjectEmission.cpp
+  s_ee32ae66c414d8::t_cc2c3c7c5f22a9 215-221
+  s_14b467c11cf6bb::t_557f70a5c886e7 1-214,222-312
+native/binary-options/src/main/kotlin/org/jetbrains/kotlin/config/nativeBinaryOptions/BinaryOptions.kt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 79-81
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/LlvmBitcodeCompiler.kt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 11-12,15,21-23,39-57
+  s_ee32ae66c414d8::t_5cd299ff4ff0f7 58
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/Linker.kt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 6
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/ObjectFiles.kt
+  s_ee32ae66c414d8::t_b0069aaecf0b4f 19,31
+native/native.tests/tests/org/jetbrains/kotlin/konan/test/blackbox/ParallelObjectFilesTest.kt
+  s_14b467c11cf6bb::t_a62e2863d228d9 1-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "1a3c944d266ae8be311bad7e46a54b6e1199be7c",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_14b467c11cf6bb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5e1c76e7-0f3d-475f-9aa1-c30ed5fe1753",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>"
+    },
+    "s_ee32ae66c414d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ac4c4f25-07bf-4eaf-a545-7cbe20268e02",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":498444,\"deletions\":30}}",
+        "stats_total_additions": "498444",
+        "stats_total_deletions": "30",
+        "stats_turn_models": "{\"t_0b6b42b7e949f4\":\"default\",\"t_b0069aaecf0b4f\":\"default\",\"t_cc2c3c7c5f22a9\":\"default\"}"
+      }
+    }
+  }
+}
