@@ -1,0 +1,126 @@
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/ObjectFiles.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 19,31
+native/binary-options/src/main/kotlin/org/jetbrains/kotlin/config/nativeBinaryOptions/BinaryOptions.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 79-81
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/Linker.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 6
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/BitcodeCompiler.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 19-23
+kotlin-native/libllvmext/src/main/cpp/ParallelObjectEmission.cpp
+  s_ee32ae66c414d8::t_d8e4643d7eb1a5 184-186
+  s_8ebb722ed86571::t_51342de776e1de 193-194,196
+  s_8ebb722ed86571::t_37880e694b60aa 26-29
+  s_8ebb722ed86571::t_83ba96c50f1c02 81,84
+  s_8ebb722ed86571::t_ac6042dcef80a4 262-268,274,285,296,301,303-304
+  s_8ebb722ed86571::t_9f866532e179d6 62-80,82-83,85-96
+  s_ee32ae66c414d8::t_21fa237531a926 221-232
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 1-25,30-61,97-181,188-192,195,197-220,233-261,269-273,275-284,286-295,297-300,302,305-323
+  s_ee32ae66c414d8::t_04c7c16210abf3 182-183,187
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/TopLevelPhases.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 8-9,424,463-469,479,489,491,501
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/LlvmBitcodeCompiler.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 11-12,15,21-23,39-57
+  s_13b11bdfe8dbd5::t_5dc7ddaacacfe4 58
+kotlin-native/libllvmext/src/main/include/CAPIExtensions.h
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 70-74
+native/native.tests/tests/org/jetbrains/kotlin/konan/test/blackbox/ParallelObjectFilesTest.kt
+  s_13b11bdfe8dbd5::t_a59a7c0bbdc21f 1-130
+kotlin-native/libllvmext/CMakeLists.txt
+  s_13b11bdfe8dbd5::t_5700a1f690b515 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "7dfc93b0b4ad1640c5ca9279f32893007e21a76e",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_13b11bdfe8dbd5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4b2ba417-66bc-4112-a399-3fe1a4d4e1dd",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"grok-4.7\":{\"additions\":2588,\"deletions\":12}}",
+        "stats_total_additions": "2588",
+        "stats_total_deletions": "12",
+        "stats_turn_models": "{\"t_5700a1f690b515\":\"grok-4.7\",\"t_97958f52f768ef\":\"grok-4.7\",\"t_a59a7c0bbdc21f\":\"grok-4.7\",\"t_ad433d0e36d3db\":\"grok-4.7\",\"t_de43534a913fb8\":\"grok-4.7\",\"t_fd746976c76af7\":\"grok-4.7\"}"
+      }
+    },
+    "s_1fdf010dba2bf4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ccc281a1-8a73-42a9-85c1-85f26d078b8e",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":104,\"deletions\":0}}",
+        "stats_total_additions": "104",
+        "stats_turn_models": "{\"t_c20d3d880e35f4\":\"default\",\"t_ed2894864526da\":\"default\"}"
+      }
+    },
+    "s_32f6357eaeda8c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "abea89a7-8859-4640-81b2-7fa19dc7859d",
+        "model": "grok-4.7, default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":515879,\"deletions\":1208},\"grok-4.7\":{\"additions\":1051,\"deletions\":286}}",
+        "stats_total_additions": "516930",
+        "stats_total_deletions": "1494",
+        "stats_turn_models": "{\"t_00337e399d665d\":\"grok-4.7\",\"t_030727dd80b4f0\":\"default\",\"t_042a612226da28\":\"default\",\"t_079b04c65129f3\":\"default\",\"t_08f3aebe6c5f96\":\"default\",\"t_0a1aa7e32eefa0\":\"default\",\"t_0aca15826df751\":\"grok-4.7\",\"t_0c3dbfa0be1146\":\"default\",\"t_1035d292718ad4\":\"default\",\"t_1394775a9ed760\":\"grok-4.7\",\"t_14aa80a5e9b1f5\":\"default\",\"t_1a219d6dbdb184\":\"grok-4.7\",\"t_1ae9e6d9ae3f10\":\"default\",\"t_1c33cf424f6fda\":\"grok-4.7\",\"t_1cecc27ecd7790\":\"grok-4.7\",\"t_1ebacb2996e7a5\":\"default\",\"t_1fe9ef42c82b88\":\"default\",\"t_1ff9c1fc6946c9\":\"default\",\"t_21613213341a54\":\"grok-4.7\",\"t_258149a4de1fdf\":\"default\",\"t_26a504420e38f0\":\"grok-4.7\",\"t_29cc81bd04e5f0\":\"default\",\"t_2acfa099bba760\":\"grok-4.7\",\"t_2b416691ff06f2\":\"default\",\"t_2fcc57052b9a40\":\"default\",\"t_31168cb7a191ce\":\"default\",\"t_3359346b04406f\":\"default\",\"t_33d2ea4c33fcd6\":\"default\",\"t_3ab9122faa266f\":\"grok-4.7\",\"t_3aeba69aca1e5b\":\"default\",\"t_3cdc9b22f73f20\":\"default\",\"t_3d17966f57bdb3\":\"default\",\"t_435e6a8be40115\":\"default\",\"t_44b3366c24852a\":\"default\",\"t_4966f355e4808b\":\"default\",\"t_4a91fe5a49b3b1\":\"default\",\"t_4adf44a69a7ef7\":\"grok-4.7\",\"t_4ff78fe7a0b071\":\"default\",\"t_53faed34c18920\":\"grok-4.7\",\"t_541104897bc69c\":\"grok-4.7\",\"t_54280cfa940ca5\":\"default\",\"t_5bbac9b884f987\":\"default\",\"t_667bd930a8523d\":\"grok-4.7\",\"t_6892bc6a797aeb\":\"grok-4.7\",\"t_6d8527ca232b58\":\"default\",\"t_6eddfc672e30b8\":\"default\",\"t_6f090d8c418087\":\"default\",\"t_6f29e48ec4e9cd\":\"default\",\"t_6fa6ffad9c0b25\":\"default\",\"t_7236507837ddf6\":\"default\",\"t_725d449c9679ea\":\"grok-4.7\",\"t_777edc428d9b12\":\"grok-4.7\",\"t_7fb985cdef3859\":\"default\",\"t_87b66bc79d9613\":\"grok-4.7\",\"t_8a0bca9f17336a\":\"default\",\"t_8b9254fbfdc78b\":\"default\",\"t_8c242f8bd3fabd\":\"default\",\"t_8e51a1d0a8ce8f\":\"default\",\"t_93153415cd0b83\":\"grok-4.7\",\"t_95eb5361d71a96\":\"default\",\"t_974ec4a1e26735\":\"default\",\"t_994c5403f21e78\":\"default\",\"t_9b28c9e5b89cc9\":\"grok-4.7\",\"t_9ccfa598125cdc\":\"grok-4.7\",\"t_9d126517807463\":\"default\",\"t_9e64b341f590d6\":\"default\",\"t_a15d88c9ecef71\":\"grok-4.7\",\"t_a2ce83991257ee\":\"default\",\"t_a74e98066e9670\":\"default\",\"t_aa69d8f925d0b7\":\"default\",\"t_b5f8775bde2ced\":\"default\",\"t_b6510a95a53bdb\":\"grok-4.7\",\"t_b74c0fe6662bf3\":\"default\",\"t_b85f648ac3d7bb\":\"default\",\"t_ba1eadd2ad787b\":\"default\",\"t_bb548c0a350f42\":\"grok-4.7\",\"t_bc25697ca87f3c\":\"grok-4.7\",\"t_bcfd90c973966c\":\"default\",\"t_c1d56c16716dfd\":\"default\",\"t_c54b6cbec21652\":\"default\",\"t_c5f305d782dc58\":\"default\",\"t_d3a66ee7e7fe68\":\"default\",\"t_d6433d8da52d5b\":\"grok-4.7\",\"t_d87baa3ba12627\":\"grok-4.7\",\"t_df395c785ec419\":\"grok-4.7\",\"t_e8cfa1283a799a\":\"default\",\"t_e99bb8bafeafe0\":\"grok-4.7\",\"t_ec5f2d07f2f1cc\":\"default\",\"t_eca4aaa373ea3b\":\"default\",\"t_ede2f206af517f\":\"default\",\"t_efd607d8a9d0e7\":\"default\",\"t_f28ee7043a0179\":\"default\",\"t_f52f2b7d2d69d0\":\"default\",\"t_f95e42e7cb0001\":\"default\",\"t_ff65895da6af73\":\"default\"}"
+      }
+    },
+    "s_8ebb722ed86571": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "93227456-fd66-464e-b550-72c1d40f52cc",
+        "model": "grok-4.7"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"grok-4.7\":{\"additions\":463877,\"deletions\":26}}",
+        "stats_total_additions": "463877",
+        "stats_total_deletions": "26",
+        "stats_turn_models": "{\"t_055a0e0fe5400f\":\"grok-4.7\",\"t_24b99085eca693\":\"grok-4.7\",\"t_33b2d14b2b99e9\":\"grok-4.7\",\"t_3570c94d40dd02\":\"grok-4.7\",\"t_37880e694b60aa\":\"grok-4.7\",\"t_50462977453f30\":\"grok-4.7\",\"t_51342de776e1de\":\"grok-4.7\",\"t_580dfcbb5ef204\":\"grok-4.7\",\"t_600f0c6482b069\":\"grok-4.7\",\"t_7832956b37be8a\":\"grok-4.7\",\"t_79625569e7c7ad\":\"grok-4.7\",\"t_7fb54116390ca0\":\"grok-4.7\",\"t_7fbf3315e0fed5\":\"grok-4.7\",\"t_83ba96c50f1c02\":\"grok-4.7\",\"t_9f866532e179d6\":\"grok-4.7\",\"t_a8f237ae71e8f5\":\"grok-4.7\",\"t_ac6042dcef80a4\":\"grok-4.7\",\"t_b11b732678499c\":\"grok-4.7\",\"t_b263a10bffb994\":\"grok-4.7\",\"t_c27c807514c719\":\"grok-4.7\",\"t_c56f11e7d29929\":\"grok-4.7\",\"t_c78446e73eed80\":\"grok-4.7\",\"t_ca5e429d374ce5\":\"grok-4.7\",\"t_d2c651cb74a8a9\":\"grok-4.7\",\"t_df494f12eb68e1\":\"grok-4.7\",\"t_f1b83347af0c5f\":\"grok-4.7\",\"t_f44fda13eaf074\":\"grok-4.7\",\"t_f6eccc218d69bf\":\"grok-4.7\",\"t_fbffe6a37a6faf\":\"grok-4.7\"}"
+      }
+    },
+    "s_ee32ae66c414d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ac4c4f25-07bf-4eaf-a545-7cbe20268e02",
+        "model": "grok-4.7, default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":4,\"deletions\":1},\"grok-4.7\":{\"additions\":99,\"deletions\":17}}",
+        "stats_total_additions": "103",
+        "stats_total_deletions": "18",
+        "stats_turn_models": "{\"t_04c7c16210abf3\":\"grok-4.7\",\"t_21fa237531a926\":\"grok-4.7\",\"t_677415f40a7039\":\"grok-4.7\",\"t_6f7b382750ae87\":\"grok-4.7\",\"t_8f75c110ec603d\":\"default\",\"t_8fa3dfa3ac6698\":\"grok-4.7\",\"t_956d5aa97b5712\":\"grok-4.7\",\"t_a5eb78374e0e96\":\"grok-4.7\",\"t_a8e7bcfbddd639\":\"grok-4.7\",\"t_d8e4643d7eb1a5\":\"default\",\"t_de497b7c10a10c\":\"grok-4.7\"}"
+      }
+    },
+    "s_f6d717a4fa50a4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "077b3410-ab8b-403e-8d0c-f2bc41cb75ae",
+        "model": "default"
+      },
+      "human_author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"default\":{\"additions\":71,\"deletions\":6}}",
+        "stats_total_additions": "71",
+        "stats_total_deletions": "6",
+        "stats_turn_models": "{\"t_27e0d041a61ec2\":\"default\",\"t_6b5f2638fe91b3\":\"default\",\"t_6d2550cfbad67b\":\"default\",\"t_8060b9458a44db\":\"default\",\"t_9597e92a6f8fe0\":\"default\",\"t_df3d1466c281d0\":\"default\",\"t_f2129ea7de42f1\":\"default\"}"
+      }
+    }
+  }
+}
