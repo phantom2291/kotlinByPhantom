@@ -1,0 +1,150 @@
+native/native.tests/tests/org/jetbrains/kotlin/konan/test/blackbox/ParallelObjectFilesTest.kt
+  s_5895076923cdb6::t_88a54274848d55 32-40,53,56,59,62,66-69,76-105,107-122,124-139,150-208,215-216,220,226-231,233,236-242,253,255-270,299,303,316-329,332-358,361,367-371,376-377,387,399-440
+  s_5895076923cdb6::t_e18fc3e45c44e5 44-48,63-65,70-75,209-213,217-219,221-225,232,234-235,244-245,252,271-276,287-298,300-302,304-315,330-331,359-360,362-366,372-375,379-386,388-396
+  s_5895076923cdb6::t_486826e5983e07 140-149
+  s_5895076923cdb6::t_0dadcf99825ab2 214
+  s_5895076923cdb6::t_3790d75d85f1de 243
+  s_5895076923cdb6::t_08b315cf778f68 254
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/Linker.kt
+  s_fa186bc909317a::t_d69f665601f881 64-80
+kotlin-native/libllvmext/src/main/cpp/ParallelObjectEmission.cpp
+  s_f6598616899a95::t_0e7da47789e19d 9
+  s_f6598616899a95::t_c47b85512b6487 380-381
+  s_f6598616899a95::t_72692fc871ed69 442,449
+  s_fa186bc909317a::t_1003f43d76bb63 566,569-579
+  s_f6598616899a95::t_ba918687bcbe9e 625-632
+  s_f6598616899a95::t_5c639fca34d6a3 165
+  s_f6598616899a95::t_9df38aacb53488 483
+  s_f6598616899a95::t_2d93c1cd7e8b47 633
+  h_78211a3077e3d1 105-111,114-118,120-121,152,248-252,411,414,439-440
+  s_f6598616899a95::t_89b9dec9f04418 29
+  s_f6598616899a95::t_8e93af18b6f199 62-63,188-193,211,240-247,392-395,454-455,460-464,470-473,477-480,484-486,490-491,493-499,539,541
+  s_f6598616899a95::t_a2a948808466d0 44,46,53,64-66,85-86,166-187
+  s_5895076923cdb6::t_54bb691122e456 317-318,325-330
+  s_f6598616899a95::t_90855eb89a46d4 8,13-14,19-20,60-61,73-74,163-164,194,522,639
+  s_fa186bc909317a::t_74dc9252f45bac 47-49
+  s_5895076923cdb6::t_3c05831668b7e0 112-113,122,161,412-413,415-423,425-434,436-437
+  s_f6598616899a95::t_eb589f8310fdbd 45,586
+  s_5895076923cdb6::t_674e55e3466fa8 336,346-355
+  s_5895076923cdb6::t_8f35c216a49cd3 15,50-52,119,206-210,253-316,319-324,331-335,337-345,359-373,384,396-402,404-408,410,443-444,446-448,451-453,456-459,465-468,474-475,492,513,517,540,563,641-652
+  s_fa186bc909317a::t_8fd3ce1e501f49 567-568
+  s_f6598616899a95::t_1e3fdb92b0c3f7 54-59,87-102,123-151,153-160,162,356-358,383,403,409,667,674
+  s_f6598616899a95::t_c9135e8533950a 379,382
+  s_f6598616899a95::t_a7bc0ca196efed 103-104
+  s_5895076923cdb6::t_231dfb95a440d1 424,435,438
+  s_5895076923cdb6::t_a15de213b980d6 564
+  s_fa186bc909317a::t_acac8acd682853 527,531
+  s_f6598616899a95::t_990bf847a77c9c 668-673
+  s_f6598616899a95::t_ef41fe113b5618 212
+  s_f6598616899a95::t_a563067df633c7 675
+  s_5895076923cdb6::t_bc5f9e60de916d 503-509,565
+kotlin-native/libllvmext/src/main/include/CAPIExtensions.h
+  s_f6598616899a95::t_c722aa831840de 70,74-75,80-81
+  h_78211a3077e3d1 71-73
+  s_5895076923cdb6::t_2cadc5ceda309a 77-79
+native/utils/src/org/jetbrains/kotlin/konan/target/Linker.kt
+  s_fa186bc909317a::t_ad7abf2c565e43 190-200
+  s_fa186bc909317a::t_35a65c88d6a645 467-474
+kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin/backend/konan/driver/phases/TopLevelPhases.kt
+  s_f6598616899a95::t_19ee126513f45d 485-500
+  s_fa186bc909317a::t_bbb173028f423e 2
+  s_5895076923cdb6::t_0820c202d2bd35 482-484
+  s_fa186bc909317a::t_9771f59f863767 472,481,504-511
+  s_f6598616899a95::t_a1f0afa41c5196 10-12,14,34
+  s_fa186bc909317a::t_13560654310dbb 469-471,473-474,477-480
+  s_fa186bc909317a::t_33a6c48800700e 475-476
+  s_f6598616899a95::t_ed9221ec7767b3 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.9",
+  "base_commit_sha": "3003a54c98171ccbe3fb3a6997679959a3cd30e4",
+  "prompts": {},
+  "humans": {
+    "h_78211a3077e3d1": {
+      "author": "qq_49092415 <zhengsunliang@huawei.com>",
+      "overridden": {
+        "s_5895076923cdb6": 19
+      }
+    }
+  },
+  "sessions": {
+    "s_32f6357eaeda8c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "abea89a7-8859-4640-81b2-7fa19dc7859d",
+        "model": "default"
+      },
+      "human_author": "phantom2291 <phantom2291@users.noreply.github.com>",
+      "custom_attributes": {
+        "stats_models": {"default":{"additions":4644,"deletions":156}},
+        "stats_total_additions": 4644,
+        "stats_total_deletions": 156
+      }
+    },
+    "s_5895076923cdb6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ee1707e1-c630-481d-ab20-76f5f0327074",
+        "model": "default"
+      },
+      "human_author": "phantom2291 <phantom2291@users.noreply.github.com>",
+      "custom_attributes": {
+        "stats_models": {"default":{"additions":896,"deletions":256}},
+        "stats_total_additions": 896,
+        "stats_total_deletions": 256
+      }
+    },
+    "s_6e5acc9f8fcfd4": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_e183d8d42ffeHg6BsAsyKmg8eg",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "phantom2291 <phantom2291@users.noreply.github.com>",
+      "custom_attributes": {
+        "stats_models": {"deepseek-v4-flash":{"additions":2817,"deletions":1}},
+        "stats_total_additions": 2817,
+        "stats_total_deletions": 1
+      }
+    },
+    "s_ee32ae66c414d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ac4c4f25-07bf-4eaf-a545-7cbe20268e02",
+        "model": "default"
+      },
+      "human_author": "phantom2291 <phantom2291@users.noreply.github.com>",
+      "custom_attributes": {
+        "stats_models": {"default":{"additions":498354}},
+        "stats_total_additions": 498354
+      }
+    },
+    "s_f6598616899a95": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0dd01795-5af7-4b34-b5b5-82dc3d6e8584",
+        "model": "default"
+      },
+      "human_author": "phantom2291 <phantom2291@users.noreply.github.com>",
+      "custom_attributes": {
+        "stats_models": {"default":{"additions":1424,"deletions":994}},
+        "stats_total_additions": 1424,
+        "stats_total_deletions": 994
+      }
+    },
+    "s_fa186bc909317a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "18c1c8b2-3838-4a0a-b4e3-7714bb4f571a",
+        "model": "default"
+      },
+      "human_author": "phantom2291 <phantom2291@users.noreply.github.com>",
+      "custom_attributes": {
+        "stats_models": {"default":{"additions":555,"deletions":302},"grok-4.7":{"additions":67,"deletions":38,"traces":["t_c47b671c041612"]}},
+        "stats_total_additions": 622,
+        "stats_total_deletions": 340
+      }
+    }
+  }
+}
