@@ -180,8 +180,8 @@ kotlin-native/backend.native/compiler/ir/backend.native/src/org/jetbrains/kotlin
       },
       "human_author": null,
       "custom_attributes": {
-        "stats_models": {"default":{"additions":2}},
-        "stats_total_additions": 2
+        "stats_models": {"default":{"additions":4}},
+        "stats_total_additions": 4
       }
     }
   }
